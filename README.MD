@@ -3,6 +3,21 @@
 A comprehensive, menu-driven bash script for managing file transfers between Linux machines on a network. Features automatic device discovery, progress tracking, logging, and remote deployment capabilities.
 
 ---
+# MSP432 Ports and Registers Complete Guide
+<pre style="background:#222; color:#0f0; padding:12px; border-radius:6px;">
+<span style="color:#4af; font-weight:bold;">Publisher:</span> 
+Date 04/12/2025
+Md Harrington
+Bexleyheath Kent
+London UK DA68NP
+
+<span style="color:#4af; font-weight:bold;">Address</span>
+1st Bed
+17-19 Heathfeld Road
+Bexleyheath 
+Kent DA6 8NP
+
+<span style="color:#f88;">Please see links for direct contact at end of this page .</span>
 
 ## Table of Contents
 
@@ -1890,3 +1905,12 @@ Host 192.168.0.*
 **End of Documentation**
 
 For updates and improvements, check the script comments and version history.
+
+## Aditional links to this subject inclusive me personal links 
+
+-   [FaceBook](https://www.facebook.com/mark.harrington.14289)
+-   [Instagram](https://www.instagram.com/markukh2021/)
+-   [Utube Channel](www.youtube.com/@markharrington5826)
+-   [Threads](https://www.threads.com/@markukh2021)
+-   [X formerly Twitter](https://x.com/MarkHar11467143)
+-   [Personal Webpage](https://eliteprojects.x10host.com) 
