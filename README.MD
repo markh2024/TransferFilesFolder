@@ -35,38 +35,38 @@ This script provides a user-friendly interface for transferring files and folder
 
 ## Features
 
-### 🔍 **Automatic Network Discovery**
+###  **Automatic Network Discovery**
 - Scans entire subnet using `nmap -sn`
 - Detects MAC addresses and identifies manufacturers
 - Shows online/offline status for all devices
 - Resolves hostnames automatically
 
-### 📁 **File Transfer**
+###  **File Transfer**
 - Bidirectional transfers (send/receive)
 - Supports both files and directories
 - Transfer only changed files (incremental sync)
 - Real-time progress indicators
 - Uses rsync for efficient transfers
 
-### 📊 **Comprehensive Logging**
+###  **Comprehensive Logging**
 - Logs all transfers with timestamps
 - Records username, IP, hostname for both parties
 - Maintains logs on both local and remote machines
 - View transfer history anytime
 
-### 🚀 **Remote Deployment**
+###  **Remote Deployment**
 - Deploy script to single remote host
 - Deploy to all configured hosts at once
 - Automatic configuration synchronization
 - Makes script executable on remote
 
-### 🛠️ **Dependency Management**
+### **Dependency Management**
 - Auto-detects required packages
 - Offers to install missing dependencies
 - Supports multiple package managers (apt, yum, dnf, pacman, zypper)
 - Graceful fallbacks when tools unavailable
 
-### 🎨 **User Interface**
+### **User Interface**
 - Color-coded output for clarity
 - Progress bars and spinners
 - Table-formatted device listings
