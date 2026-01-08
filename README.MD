@@ -3,7 +3,7 @@
 A comprehensive, menu-driven bash script for managing file transfers between Linux machines on a network. Features automatic device discovery, progress tracking, logging, and remote deployment capabilities.
 
 ---
-# MSP432 Ports and Registers Complete Guide
+
 <pre style="background:#222; color:#0f0; padding:12px; border-radius:6px;">
 <span style="color:#4af; font-weight:bold;">Publisher:</span> 
 Date 04/12/2025
@@ -18,6 +18,10 @@ Bexleyheath
 Kent DA6 8NP
 
 <span style="color:#f88;">Please see links for direct contact at end of this page .</span>
+
+<div align="center">
+<img src="Images/" alt="Basic View of how this is presented ">
+</div>
 
 ## Table of Contents
 
