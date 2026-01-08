@@ -18,6 +18,7 @@ Bexleyheath
 Kent DA6 8NP
 
 <span style="color:#f88;">Please see links for direct contact at end of this page .</span>
+</pre>
 
 <div align="center">
 <img src="Images/Into_Menu.png" alt="Basic View of how this is presented ">
